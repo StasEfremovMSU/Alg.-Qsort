@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479733317 source:c:\users\user\documents\программирование\вторая попытка\qsort2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<algorithm>
+
